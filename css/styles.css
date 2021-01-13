@@ -1,0 +1,64 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+}
+
+.nav-link {
+  margin-left: 1.2rem;
+}
+
+.nav-padding {
+  padding: 0.5rem 4rem;
+}
+
+.add-padding {
+  padding: 4rem;
+}
+
+.img-fluid {
+  margin: 2rem auto;
+}
+
+.ratio {
+  margin: 2rem auto;
+}
+
+.article-title {
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 1.2;
+  margin: 1rem auto 2rem;
+}
+
+.align-left {
+  text-align: left;
+}
+
+.banner {
+  background-color: black;
+  height: 200px;
+  margin: 3rem auto;
+  width: 100%;
+}
+
+.col-lg-4 {
+  padding: 1rem;
+}
+
+footer {
+  color: #fff;
+  padding: 2rem 0 1rem;
+}
+
+footer p {
+  margin: 1rem auto;
+}
+
+footer a {
+  color: #fff;
+  color: rgba(255,255,255,.55);
+}
+
+footer a:hover {
+  color: #fff;
+}
